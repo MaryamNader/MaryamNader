@@ -1,10 +1,26 @@
 Hi👋, I'm Maryam 😊 
 
-I'm a proficient full stack developer who quickly learns new technologies and delivers high-quality, efficient websites. My design skills and coding expertise ensure user-friendly, functional interfaces. I aim to provide both users and clients with easy-to-use. I'm passionate about contributing to innovative development teams.
+### QA Test Engineer | Software Testing Enthusiast 🧪
 
+I'm a QA Engineer passionate about delivering high-quality software through effective testing and continuous improvement.
 
+### 🛠️ Skills & Tools
 
-<!---
-MaryamNader/MaryamNader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Manual Testing
+* API Testing & Postman
+* Test Case Design
+* Functional & Regression Testing
+* Bug Reporting & Tracking
+* Test Automation
+* Git & GitHub
+
+### 📌 Currently Working On
+
+* API Testing & Test Automation
+* Building and improving QA testing projects
+* Expanding my automation skills
+
+### 📫 Let's Connect
+
+I'm always open to learning, collaborating, and discussing software quality and testing.
+
